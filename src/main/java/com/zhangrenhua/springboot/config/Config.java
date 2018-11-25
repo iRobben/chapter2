@@ -1,4 +1,4 @@
-package com.zhangrenhua;
+package com.zhangrenhua.springboot.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

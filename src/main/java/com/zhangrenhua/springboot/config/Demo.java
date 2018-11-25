@@ -1,4 +1,4 @@
-package com.zhangrenhua;
+package com.zhangrenhua.springboot.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

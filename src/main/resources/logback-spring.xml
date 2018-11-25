@@ -169,11 +169,6 @@
         可以包含零个或多个元素，标识这个appender将会添加到这个logger。
     -->
 
-    <!--开发环境:打印控制台-->
-    <springProfile name="dev">
-        <logger name="com.nmys.view" level="debug"/>
-    </springProfile>
-
     <root level="info">
         <appender-ref ref="CONSOLE" />
         <appender-ref ref="DEBUG_FILE" />
