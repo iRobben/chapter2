@@ -38,7 +38,7 @@ public class User extends Model<User> {
     /**
      * 状态 1启用 0 停用
      */
-    private StatusEnum status;
+    private String status;
     /**
      * 创建时间
      */
